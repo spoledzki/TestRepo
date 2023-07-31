@@ -1,5 +1,9 @@
 to jest plik testowy
 
+zmieniam treść pliku - PPY
+dodaję jeszcze coś - PPY
+wprowadzam poprawki - PPY
+
 dodaję nową zawartość do pliku - TW
 
 wprowadzam zmiany w pliku - SO
